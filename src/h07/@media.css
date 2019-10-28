@@ -1,0 +1,53 @@
+
+body{ background-color: #f5edb1; }
+
+.drums{ padding-left: 395px; margin-top:-415px; position: absolute; font-style: italic;}
+.guitar{padding-left: 665px; margin-top:-415px; position: absolute; font-style: italic;}
+.saxophone{ padding-left: 935px; margin-top:-415px; position: absolute; font-style: italic;}
+.trumpet{padding-left: 1205px; margin-top:-415px; position: absolute; font-style: italic;}
+
+.block{  height: 150px; width: 1500px;background-color: #abf0ff; font-style: italic; font-size: 40px; color: gray; text-effect: engrave; text-align: center;}
+.balk{ width: 1500px; height: 60px; background-color: dimgray; }
+.button1{ text-align: center; background-color: lightgray; border: none; display: inline-block;  margin-top: 10px;  height: 40px; width: 110px; }
+
+
+.text1{ font-size: 15px; width: 300px; height: 400px; margin-left: 40px; margin-top: -40px; font-style: normal;}
+.text2{display: inline-block; text-align: center;font-size: 15px; padding-left: 400px; margin-top: -130px; width: 200px; position:absolute;}
+.text3{ display: inline-block; text-align: center;font-size: 15px; padding-left: 690px; margin-top: -130px; width: 200px; position:absolute; }
+.text4{display: inline-block; text-align: center;font-size: 15px; padding-left: 940px; margin-top: -130px; width: 200px; position:absolute;}
+.text5{display: inline-block; text-align: center;font-size: 15px; padding-left: 1200px; margin-top: -130px; width: 200px; position:absolute;}
+
+.drumstitle {color: dimgray; padding-left: 400px; font-size: 40px; font-style: italic; margin-top: -100px; position: absolute;}
+.guitartitle{color: dimgray; margin-left: 690px; font-size: 40px; font-style: italic;margin-top: -100px; position: absolute;}
+.saxophonetitle{color: dimgray; margin-left: 940px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
+.trumpettitle{color: dimgray; margin-left: 1200px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
+.newstitle{color: dimgray; margin-left: 40px; font-size: 40px}
+
+
+@media screen and(min-width: 736px) {
+  body { background-color: pink;}
+
+  .drums{ padding-left: 395px; margin-top:-415px; position: absolute; font-style: italic;}
+  .guitar{padding-left: 665px; margin-top:-415px; position: absolute; font-style: italic;}
+  .saxophone{ padding-left: 935px; margin-top:-415px; position: absolute; font-style: italic;}
+  .trumpet{padding-left: 1205px; margin-top:-415px; position: absolute; font-style: italic;}
+
+  .block{  height: 150px; width: 1500px;background-color: #abf0ff; font-style: italic; font-size: 40px; color: gray; text-effect: engrave; text-align: center;}
+  .balk{ width: 1500px; height: 60px; background-color: dimgray; }
+  .button1{ text-align: center; background-color: lightgray; border: none; display: inline-block;  margin-top: 10px;  height: 40px; width: 110px; }
+
+
+  .text1{ font-size: 15px; width: 300px; height: 400px; margin-left: 40px; margin-top: -40px; font-style: normal;}
+  .text2{display: inline-block; text-align: center;font-size: 15px; padding-left: 400px; margin-top: -130px; width: 100%; position:absolute;}
+  .text3{ display: inline-block; text-align: center;font-size: 15px; padding-left: 690px; margin-top: -130px; width: 100%; position:absolute; }
+  .text4{display: inline-block; text-align: center;font-size: 15px; padding-left: 940px; margin-top: -130px; width: 100%; position:absolute;}
+  .text5{display: inline-block; text-align: center;font-size: 15px; padding-left: 1200px; margin-top: -130px; width: 100%; position:absolute;}
+
+  .drumstitle {color: dimgray; padding-left: 400px; font-size: 40px; font-style: italic; margin-top: -100px; position: absolute;}
+  .guitartitle{color: dimgray; margin-left: 690px; font-size: 40px; font-style: italic;margin-top: -100px; position: absolute;}
+  .saxophonetitle{color: dimgray; margin-left: 940px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
+  .trumpettitle{color: dimgray; margin-left: 1200px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
+  .newstitle{color: dimgray; margin-left: 40px; font-size: 40px}
+
+}
+
