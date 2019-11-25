@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Voorbeeldformulier</title>
+</head>
+<style>
+    .move{margin-top: 70px; margin-left: 260px; width: 400px}
+    .header{padding-left: 260px;}
+    body{background-color:#fed7ff;}
+    .veplicht{color: red;}
+    .ww{top: 0px;}
+</style>
+<body>
+
+<a href="index.html"><img alt src="img/burton_logo.png" height="43" width="500" style="padding-left: 260px; padding-top: 20px;"/></a>
+<H1 class="header"> Inlog formulier</H1>
+<div class="move">
+
+    <br><br>
+<form action="http://www.savatarian.com/html5/form.php" method="get">
+    <span class="veplicht"> * verplicht veld</span><br> <br>
+    <label for="voornaam"> Voornaam</label>
+    <input type="text"id="voornaam" name="firstname"><span class="veplicht"> * </span><br><br>
+
+
+    <label for="tussenvoegsel"> Tussenvoegsel</label>
+    <input type="text" id="tussenvoegsel" value=""><br><br>
+
+    <label for="achternaam"> Achternaam</label>
+    <input name="lastname" type="text" id="achternaam" value=""><span class="veplicht"> * </span><br><br>
+
+    <label for="geslacht1"></label>
+    <label for="geslacht"></label>
+    <input type="radio" name="gender"  id="geslacht1" value="Man"/>
+        Man
+    <input type="radio" name="gender" id="geslacht" value="Vrouw"/>
+        Vrouw<span class="veplicht"> * </span>
+        <br><br>
+    <label for="geboortedatum"></label>
+        Geboorte datum:
+        <br>
+    <input  name="geboortedatum" type="date" id="geboortedatum"><span class="veplicht"> * </span>
+        <br>
+
+    <span style="top: 270px; margin-left: 650px;  position: absolute;" >E-mail:</span>
+    <label for="email">Email</label>
+    <input style="margin-left: 700px; top:270px; position: absolute; " name="email" type="text" id="email">
+    <br> <br>
+    <label for="wachtwoord"></label>
+    <span style="margin-left: 650px; top: 310px; position: absolute;">wachtwoord:</span>
+    <input style="margin-left: 740px; top: 310px; position: absolute; " id="wachtwoord" type="text" name="password">
+        <br>
+    <input  style="margin-left: 700px; padding-left: 30px;"  type="submit" value="login">
+
+
+</form>
+</div>
+
+</body>
+</html>
