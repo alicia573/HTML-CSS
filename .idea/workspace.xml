@@ -1,19 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a5a5720-74e9-4568-8a15-1cd5d5e9feaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h01/Opgave1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h01/Opgave1.html" afterDir="false" />
+    <list default="true" id="5a5a5720-74e9-4568-8a15-1cd5d5e9feaa" name="Default Changelist" comment="&#10;commit">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Alicia573.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h02/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h07.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h07/img/truemusic-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h07/img/truemusic-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h08/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML-CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-CSS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h01/Opgave2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h01/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h03/Opgave2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h03/Opgave2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h03/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/Opdracht1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h06/Opgave1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/Opgave1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h07/@media.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/h07/@media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h07/img/truemusic-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h07/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HTML-CSS" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="PHP" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -28,46 +66,59 @@
       </set>
     </option>
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="C:/Program Files (x86)/PHP Debugger" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1RY3a5EscKgk20fEGxS4evOHtb9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\31621\IdeaProjects\HTML-CSS" />
-      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src" />
+      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h05" />
+      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h04" />
       <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h01" />
+      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h03" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h04" />
+      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h03" />
+      <recent name="C:\Users\31621\IdeaProjects\HTML-CSS\src\h05" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
       <option name="WORKING_DIRECTORY" value="" />
       <module name="HTML-CSS" />
@@ -75,7 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Opgave2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/src/h01/Opgave2.html" useBuiltInWebServerPort="true">
+    <configuration name="Opgave1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/src/h06/Opgave1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Opgave1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/Opgave1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/src/h07/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/src/Test/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/src/h05/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML-CSS/src/h07/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/h06/test.php">
       <method v="2" />
     </configuration>
     <configuration default="true" type="WebLogic Instance" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
@@ -103,11 +172,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Opgave1.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+      <item itemvalue="PHP Script.test.php" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Opgave2.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
@@ -126,7 +218,39 @@
       <workItem from="1569830266627" duration="6008000" />
       <workItem from="1569838341652" duration="1316000" />
       <workItem from="1569839764296" duration="1179000" />
-      <workItem from="1569841511509" duration="626000" />
+      <workItem from="1569841511509" duration="22537000" />
+      <workItem from="1569930349938" duration="16543000" />
+      <workItem from="1570082960674" duration="12324000" />
+      <workItem from="1570098536311" duration="2965000" />
+      <workItem from="1570125446229" duration="1855000" />
+      <workItem from="1570128863065" duration="2288000" />
+      <workItem from="1570176696809" duration="7752000" />
+      <workItem from="1570187296847" duration="2568000" />
+      <workItem from="1570191079361" duration="2821000" />
+      <workItem from="1570514956920" duration="139000" />
+      <workItem from="1570515129950" duration="7955000" />
+      <workItem from="1570687833543" duration="597000" />
+      <workItem from="1570791051091" duration="1338000" />
+      <workItem from="1571035650349" duration="4391000" />
+      <workItem from="1571055042451" duration="4000" />
+      <workItem from="1571064539804" duration="712000" />
+      <workItem from="1571120185492" duration="576000" />
+      <workItem from="1571129124630" duration="16938000" />
+      <workItem from="1571210864520" duration="1797000" />
+      <workItem from="1571212684476" duration="20902000" />
+      <workItem from="1572250340792" duration="30000" />
+      <workItem from="1572250406878" duration="30345000" />
+      <workItem from="1572508698884" duration="599000" />
+      <workItem from="1572510094242" duration="1266000" />
+      <workItem from="1572598307919" duration="598000" />
+      <workItem from="1572960439297" duration="577000" />
+      <workItem from="1573458310948" duration="664000" />
+      <workItem from="1574599198328" duration="639000" />
+      <workItem from="1575876324080" duration="7442000" />
+      <workItem from="1575962655676" duration="9405000" />
+      <workItem from="1576227651739" duration="1150000" />
+      <workItem from="1576230204096" duration="2184000" />
+      <workItem from="1576481145917" duration="28198000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1569830426737</created>
@@ -191,7 +315,112 @@
       <option name="project" value="LOCAL" />
       <updated>1569841577542</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;commit">
+      <created>1569842312856</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569842312856</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;commit">
+      <created>1569913529879</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569913529879</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&#10;commit">
+      <created>1569922572857</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569922572858</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&#10;commit">
+      <created>1570002712814</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570002712814</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&#10;commit">
+      <created>1570005340752</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570005340752</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&#10;commit">
+      <created>1570084307069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570084307069</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&#10;commit">
+      <created>1570095033899</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1570095033899</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&#10;commit">
+      <created>1570521022480</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1570521022480</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&#10;commit">
+      <created>1570521707723</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1570521707723</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&#10;commit">
+      <created>1571035744266</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571035744267</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&#10;commit">
+      <created>1571037730048</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571037730048</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&#10;commit">
+      <created>1571037970451</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1571037970451</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit">
+      <created>1571038269309</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1571038269309</updated>
+    </task>
+    <task id="LOCAL-00023" summary="&#10;commit">
+      <created>1571039318743</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1571039318743</updated>
+    </task>
+    <task id="LOCAL-00024" summary="&#10;commit">
+      <created>1572253317759</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1572253317759</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,5 +447,38 @@
     <MESSAGE value="commit" />
     <MESSAGE value="&#10;commit" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Plugins" timestamp="1576230151390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1576230151390" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1576230214768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576230214768" />
+    <state x="346" y="160" key="RollbackChangesDialog" timestamp="1576007815240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="160" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576007815240" />
+    <state x="471" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1576230203722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576230203722" />
+    <state x="318" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575962728471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1575962728471" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576227083331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1576227083331" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1576230118925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1576230118925" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HTML_CSS$index_html__1_.dat" NAME="index.html (1) Coverage Results" MODIFIED="1571298716093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

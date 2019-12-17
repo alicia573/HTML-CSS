@@ -1,53 +1,189 @@
+/* This is the laptop version*/
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+  padding:0px;
+  margin:0px;
+  font-family: 'Raleway', sans-serif;
+}
 
-body{ background-color: #f5edb1; }
+div#wrapper {
+  background-color: white;
+}
 
-.drums{ padding-left: 395px; margin-top:-415px; position: absolute; font-style: italic;}
-.guitar{padding-left: 665px; margin-top:-415px; position: absolute; font-style: italic;}
-.saxophone{ padding-left: 935px; margin-top:-415px; position: absolute; font-style: italic;}
-.trumpet{padding-left: 1205px; margin-top:-415px; position: absolute; font-style: italic;}
+header {
+  background-color: rgba(0, 64, 230, 0);
 
-.block{  height: 150px; width: 1500px;background-color: #abf0ff; font-style: italic; font-size: 40px; color: gray; text-effect: engrave; text-align: center;}
-.balk{ width: 1500px; height: 60px; background-color: dimgray; }
-.button1{ text-align: center; background-color: lightgray; border: none; display: inline-block;  margin-top: 10px;  height: 40px; width: 110px; }
+}
 
-
-.text1{ font-size: 15px; width: 300px; height: 400px; margin-left: 40px; margin-top: -40px; font-style: normal;}
-.text2{display: inline-block; text-align: center;font-size: 15px; padding-left: 400px; margin-top: -130px; width: 200px; position:absolute;}
-.text3{ display: inline-block; text-align: center;font-size: 15px; padding-left: 690px; margin-top: -130px; width: 200px; position:absolute; }
-.text4{display: inline-block; text-align: center;font-size: 15px; padding-left: 940px; margin-top: -130px; width: 200px; position:absolute;}
-.text5{display: inline-block; text-align: center;font-size: 15px; padding-left: 1200px; margin-top: -130px; width: 200px; position:absolute;}
-
-.drumstitle {color: dimgray; padding-left: 400px; font-size: 40px; font-style: italic; margin-top: -100px; position: absolute;}
-.guitartitle{color: dimgray; margin-left: 690px; font-size: 40px; font-style: italic;margin-top: -100px; position: absolute;}
-.saxophonetitle{color: dimgray; margin-left: 940px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
-.trumpettitle{color: dimgray; margin-left: 1200px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
-.newstitle{color: dimgray; margin-left: 40px; font-size: 40px}
-
-
-@media screen and(min-width: 736px) {
-  body { background-color: pink;}
-
-  .drums{ padding-left: 395px; margin-top:-415px; position: absolute; font-style: italic;}
-  .guitar{padding-left: 665px; margin-top:-415px; position: absolute; font-style: italic;}
-  .saxophone{ padding-left: 935px; margin-top:-415px; position: absolute; font-style: italic;}
-  .trumpet{padding-left: 1205px; margin-top:-415px; position: absolute; font-style: italic;}
-
-  .block{  height: 150px; width: 1500px;background-color: #abf0ff; font-style: italic; font-size: 40px; color: gray; text-effect: engrave; text-align: center;}
-  .balk{ width: 1500px; height: 60px; background-color: dimgray; }
-  .button1{ text-align: center; background-color: lightgray; border: none; display: inline-block;  margin-top: 10px;  height: 40px; width: 110px; }
+image#logo {
+  width: 330px;
+  height: 150px;
+  border-style: dashed;
+}
 
 
-  .text1{ font-size: 15px; width: 300px; height: 400px; margin-left: 40px; margin-top: -40px; font-style: normal;}
-  .text2{display: inline-block; text-align: center;font-size: 15px; padding-left: 400px; margin-top: -130px; width: 100%; position:absolute;}
-  .text3{ display: inline-block; text-align: center;font-size: 15px; padding-left: 690px; margin-top: -130px; width: 100%; position:absolute; }
-  .text4{display: inline-block; text-align: center;font-size: 15px; padding-left: 940px; margin-top: -130px; width: 100%; position:absolute;}
-  .text5{display: inline-block; text-align: center;font-size: 15px; padding-left: 1200px; margin-top: -130px; width: 100%; position:absolute;}
+img.article {
+  width: 250px;
+  height: 250px;
+  padding-bottom: 15px;
+}
 
-  .drumstitle {color: dimgray; padding-left: 400px; font-size: 40px; font-style: italic; margin-top: -100px; position: absolute;}
-  .guitartitle{color: dimgray; margin-left: 690px; font-size: 40px; font-style: italic;margin-top: -100px; position: absolute;}
-  .saxophonetitle{color: dimgray; margin-left: 940px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
-  .trumpettitle{color: dimgray; margin-left: 1200px; font-size: 40px;font-style: italic; margin-top: -100px; position: absolute;}
-  .newstitle{color: dimgray; margin-left: 40px; font-size: 40px}
+/*-- Navigatie --*/
+header{
+  width: 1200px;
+}
+nav{
+  box-sizing: border-box;
+  padding-top:10px;
+  width: 1200px;
+  height: 65px;
+
+  background-color: #abf0ff;
+  font-style: italic;
+  font-size: 20px;
+  color: gray;
+
+  display:block;
+}
+
+a {
+  background-color: #abf0ff;
+  padding: 10px;
+
+  border-top: 1px black;
+  list-style-type: none;
+}
+
+nav a {
+  alignment: center;
+  color: black;
+  text-decoration: none;
+  font-weight: 700;
+
+}
+@media all and (max-width: 549px) {
+  nav a{
+    display: list-item;
+
+
+  }
+  nav{
+    position: initial;
+    padding-bottom: 230px;
+  }
+  a{
+    background-color: #abf0ff;
+
+  }
+
+}
+
+
+
+
+/* this is the tablet version*/
+@media all and (min-width:920px) {
+
+  section#nieuws {
+    width: 65%;
+    float: left;
+    height: 20%;
+    margin-left:auto;
+    block-size: 2px;
+  }
+  section#instrumenten {
+    padding-bottom: 60px;
+  margin-left: 100px;
+    width: 70%;
+    float: right;
+  }
+  article {
+    display: inline-block;
+    width: 42%;
+
+  }
+  article:nth-child(even) {
+    margin-right: 0px;
+  }
+  #logo {
+    height: 150px;
+    width: 300px;
+  }
+  footer {
+    background-color: rgb(128,128,128);
+    color: black;
+    clear: both;
+  }
+
+}
+
+@media all and (min-width:1200px) {
+  div#wrapper {
+    width: 1200px;
+    margin: auto;
+  }
+
+}
+
+footer {
+  height: 100px;
+  background-color: rgb(128,128,128);
+  color: black;
+  clear: both;
+}
+section , footer {
+
+  padding-left: 40px;
+}
+
+header{
+  clear: both;
+}
+
+/* This is the M version of a mobile */
+
+@media screen and (min-width: 550px)  {
+
+  nav a{
+    display: marker;
+  }
+  a{
+    display: inline-block;
+    border: pink;
+    border: 1px;
+
+  }
+
+
+  /*sectie article*/
+  article {
+    display: inline-block;
+    width: 40%;
+    padding-left: 10px;
+    vertical-align: top;
+
+  }
+
+
+  div#wrapper, footer, section {
+    margin: auto;
+    width: 1200px;
+    background-color: white;
+  }
+  header{
+  width: unset;
+  }
+  footer{
+    background-color:grey ;
+  }
+  section ,header, footer {
+    padding: 20px;
+  }
+
+
 
 }
 

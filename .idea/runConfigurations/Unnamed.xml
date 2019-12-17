@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" singleton="false" nameIsGenerated="true" document_root="$USER_HOME$/PhpstormProjects/untitled">
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="http://localhost:63342" />
+    </method>
+  </configuration>
+</component>
