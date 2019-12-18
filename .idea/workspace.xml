@@ -4,35 +4,24 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a5a5720-74e9-4568-8a15-1cd5d5e9feaa" name="Default Changelist" comment="&#10;commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Alicia573.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h02/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h02/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h07.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h07/img/truemusic-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h07/img/truemusic-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML-CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML-CSS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h01/Opgave2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h01/icon.png" beforeDir="false" />
+    <list default="true" id="5a5a5720-74e9-4568-8a15-1cd5d5e9feaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/h01/styleh01.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h02/@style-h02.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h02/artikel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h03/@mediah03.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h04/@mediah04.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h05/@mediah05.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H06/bap/h06/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/H06/bap/h06/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H06/bap/h06/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/H06/bap/h06/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H06/bap/h06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/H06/bap/h06/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H06/bap/test/form2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/H06/bap/test/form2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h02/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h03/Opgave2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h03/Opgave2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h05/Opdracht1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h06/Opgave1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h06/Opgave1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h07/@media.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/h07/@media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h07/img/truemusic-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/h07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +33,20 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="HTML-CSS" />
   </component>
@@ -51,8 +54,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="PHP" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -250,7 +253,7 @@
       <workItem from="1575962655676" duration="9405000" />
       <workItem from="1576227651739" duration="1150000" />
       <workItem from="1576230204096" duration="2184000" />
-      <workItem from="1576481145917" duration="28198000" />
+      <workItem from="1576481145917" duration="43287000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1569830426737</created>
@@ -420,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572253317759</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="&#10;commit">
+      <created>1576584293460</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1576584293462</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,14 +463,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="73" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1576230151390" />
+    <state x="406" y="0" key="CommitChangelistDialog2" timestamp="1576584291989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1576584291989" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1576230214768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576230214768" />
+    <state x="481" y="129" key="MultipleFileMergeDialog" timestamp="1576584341513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="129" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1576584341513" />
     <state x="346" y="160" key="RollbackChangesDialog" timestamp="1576007815240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="346" y="160" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1576007815240" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1576584332914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1576584332914" />
     <state x="471" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1576230203722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
