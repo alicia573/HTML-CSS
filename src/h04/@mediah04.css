@@ -1,17 +1,66 @@
-.textbackground { left:148px ; position: absolute; margin-top: 70px; width: 42%; height: 200px; outline: 2px dashed black; }
-header { position: absolute;left:150px; height: 50px; margin-top: 90px; width: 80%; background: #000000; padding: 0px;  }
-.footer{position: absolute;left:150px; height: 170px; margin-top: 315px; width: 80%; background: #000000; padding: 0px;  }
-.footer2{position: absolute; left: 300px; margin-top: 340px; transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);padding: 12px 24px; cursor: pointer; text-align: center;}
-.image1{margin-left: 150px; margin-top:10px; position: absolute;}
-.image2{margin-left:142px; margin-top: -24px; }
-.text1{ margin-left: 145px; margin-top: 70px; position: absolute; height: 10px; width: 40%; }
-.color{background: black; position: inherit; text-decoration-color: white; bgcolor:  black; margin-left: 155px; margin-top: 50px;transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%); background-color: #000000; color: white; font-size: 16px; border: solid ghostwhite; padding: 12px 24px;cursor: pointer;border-radius: 5px;text-align: center;}
-.hey1{margin-left: 290px; margin-top: 115px; }
-.hey2{margin-left: 185px; margin-top: 115px;}
-.hey3{margin-left: 190px; margin-top: 115px;}
-.hey4{margin-left: 195px; margin-top: 115px;}
-.copyright{ position:absolute; margin-left:48%; margin-top: 460px; transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%); }
-table#t01, td, th {margin-top: 50px; margin-left:1000px ; border: 3px solid black; outline:2px dashed white;border-collapse: collapse; height: 50px; width: 20%; align-content: normal;
+*{
+  box-sizing: border-box;
 }
+div#wrapper {
+  width: 1000px;
+  margin: auto;
+
+}
+table, th, td {
+  border: 2px solid #0e8665;
+  border-collapse: collapse;
+  background-color: white;
+
+}
+table {
+  text-align: center;
+
+}
+section{
+  padding-bottom: 2px;
+  background-color: black;
+}
+#button{
+  background-color: black;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 1px;
+  cursor: pointer;
+}
+article{
+  width: 400px;
+  padding-bottom: 30px;
+}
+footer{
+  padding-top: 20px;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+#t01{
+  padding-bottom: 20px;
+}
+
+
+
+
+table#t01, td, th {
+  margin-left: 600px;
+  margin-top:-290px;
+  border: 3px solid black;
+  outline:2px dashed white;
+  border-collapse: collapse;
+  height: 50px;
+  width: 20%;
+  align-content: normal;
+}
+

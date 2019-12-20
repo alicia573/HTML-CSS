@@ -1,62 +1,58 @@
 /*OPGAVE1 / INDEX.HTML FILE.*//*---------------------------------------------------------------------------------------------------*/
+*{
+  box-sizing: border-box;
+}
+div#wrapper {
+  width: 1200px;
+  margin: auto;
+
+}
 table, th, td {
   border: 2px solid #0e8665;
   border-collapse: collapse;
+  background-color: white;
 }
 table {
   text-align: center;
-  position: absolute;
-  top: 90px;
+}
+section{
+padding-bottom: 20px;
+  background-color: lightsteelblue;
 
 }
 
-/*OPGAVE 2*//*----------------------------------------------------------------------------------------------------------------------*/
 
+/*OPGAVE 2*//*----------------------------------------------------------------------------------------------------------------------*/
+header{
+  text-align: center;
+}
 
 table#t01 th  {
   border: 2px solid burlywood;
-  margin-top:10px;
-  margin-left:10px;
+
 }
 table#t01 td {
   border: 2px solid burlywood;
-  margin-top:10px;
-  margin-left:10px;
+
 }
-table#t01 {
-  border: 2px solid burlywood;
-}
+
 table#t02  th {
   border: 2px solid black;
   border-collapse: collapse;
-  margin-top:100px;
-  margin-left:200px;
+
 
 }
 table#t02 td {
   border: 2px solid black;
-  margin-top:-90px;
-  margin-left:200px;
+
 }
-table#t02 {
-  border: 2px solid red;
-  position: absolute;
-}
-#t02{
-  margin-left: 200px;
-}
+
 table#t03 th {
   border: 4px solid rebeccapurple;
   border-collapse: collapse;
 }
-table#t03 {
-  margin-top:-55px;
-  margin-left:600px;
-  border: 4px solid rebeccapurple;
-  border-collapse: collapse;
-}
+
 table#t03 td{
-  margin-top:-55px;
-  margin-left:600px;
+
   border: 4px solid rebeccapurple;
 }
