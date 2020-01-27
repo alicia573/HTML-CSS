@@ -68,15 +68,30 @@ nav a {
   nav a{
     display: list-item;
 
-
   }
   nav{
     position: initial;
     padding-bottom: 230px;
+    width: 412px;
   }
   a{
     background-color: #abf0ff;
 
+  }
+
+}
+@media screen and (min-width: 420px) and (max-width: 549px) {
+  article{
+    width: 400px;
+  }
+
+}
+@media screen and (min-width: 549px) and (max-width: 920px) {
+  article{
+    height: 400px;
+  }
+  #logo{
+    padding-left: 500px;
   }
 
 }
@@ -135,8 +150,7 @@ footer {
   clear: both;
 }
 section , footer {
-
-  padding-left: 40px;
+  padding-left: 15px;
 }
 
 header{
@@ -145,7 +159,7 @@ header{
 
 /* This is the M version of a mobile */
 
-@media screen and (min-width: 550px)  {
+@media all and (min-width: 550px)  {
 
   nav a{
     display: marker;
@@ -161,7 +175,6 @@ header{
   /*sectie article*/
   article {
     display: inline-block;
-    width: 40%;
     padding-left: 10px;
     vertical-align: top;
 
@@ -182,8 +195,35 @@ header{
   section ,header, footer {
     padding: 20px;
   }
+@media screen and (max-width: 422px) {
+  nav{
+    width: 400px;
+  }
 
+}
+@media all and (max-width: 320px) {
+  #wrapper{
+    background-color: black;
+  }
+  article,#nieuws{
+    margin-left:-100px;
+  }
+  footer{
+    width: 320px;
+  }
+  header{
+    padding-left: 40px;
+  }
 
+  nav{
+  float:left;
+    padding-left: 50px;
+
+}
+  a{
+    text-align: left;
+  }
+}
 
 }
 
