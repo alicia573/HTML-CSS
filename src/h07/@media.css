@@ -111,7 +111,7 @@ nav a {
   }
   section#instrumenten {
     padding-bottom: 60px;
-  margin-left: 100px;
+    margin-left: 100px;
     width: 70%;
     float: right;
   }
@@ -187,7 +187,7 @@ header{
     background-color: white;
   }
   header{
-  width: unset;
+    width: unset;
   }
   footer{
     background-color:grey ;
@@ -195,35 +195,35 @@ header{
   section ,header, footer {
     padding: 20px;
   }
-@media screen and (max-width: 422px) {
-  nav{
-    width: 400px;
-  }
+  @media screen and (max-width: 422px) {
+    nav{
+      width: 400px;
+    }
 
-}
-@media all and (max-width: 320px) {
-  #wrapper{
-    background-color: black;
   }
-  article,#nieuws{
-    margin-left:-100px;
-  }
-  footer{
-    width: 320px;
-  }
-  header{
-    padding-left: 40px;
-  }
+  @media all and (max-width: 320px) {
+    #wrapper{
+      background-color: black;
+    }
+    article,#nieuws{
+      margin-left:-100px;
+    }
+    footer{
+      width: 320px;
+    }
+    header{
+      padding-left: 40px;
+    }
 
-  nav{
-  float:left;
-    padding-left: 50px;
+    nav{
+      float:left;
+      padding-left: 50px;
 
-}
-  a{
-    text-align: left;
+    }
+    a{
+      text-align: left;
+    }
   }
-}
 
 }
 
