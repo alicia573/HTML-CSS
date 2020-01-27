@@ -64,28 +64,8 @@ nav a {
   font-weight: 700;
 
 }
-@media all and (max-width: 549px) {
-  nav a{
-    display: list-item;
 
-  }
-  nav{
-    position: initial;
-    padding-bottom: 230px;
-    width: 412px;
-  }
-  a{
-    background-color: #abf0ff;
-
-  }
-
-}
-@media screen and (min-width: 420px) and (max-width: 549px) {
-  article{
-    width: 400px;
-  }
-
-}
+/* this is the tablet versions */
 @media screen and (min-width: 549px) and (max-width: 920px) {
   article{
     height: 400px;
@@ -97,9 +77,6 @@ nav a {
 }
 
 
-
-
-/* this is the tablet version*/
 @media all and (min-width:920px) {
 
   section#nieuws {
@@ -171,7 +148,6 @@ header{
 
   }
 
-
   /*sectie article*/
   article {
     display: inline-block;
@@ -179,7 +155,28 @@ header{
     vertical-align: top;
 
   }
+  @media all and (max-width: 549px) {
+  nav a{
+    display: list-item;
 
+  }
+  nav{
+    position: initial;
+    padding-bottom: 230px;
+    width: 412px;
+  }
+  a{
+    background-color: #abf0ff;
+
+  }
+
+}
+@media screen and (min-width: 420px) and (max-width: 549px) {
+  article{
+    width: 400px;
+  }
+
+}
 
   div#wrapper, footer, section {
     margin: auto;
