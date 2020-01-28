@@ -34,7 +34,7 @@ section{
   cursor: pointer;
 }
 article{
-  width: 400px;
+  width: 500px;
   padding-bottom: 30px;
 }
 footer{
@@ -42,25 +42,30 @@ footer{
   background-color: black;
   color: white;
   text-decoration: none;
-  cursor: pointer;
 }
 
 
 #t01{
   padding-bottom: 20px;
+  height:270px;
+  width: 46%;
+}
+.column1{
+  background-color: #D1F0C4;
+}
+.column2{
+  background-color: #C5EBF8;
+}
+a:hover{
+  color: mediumaquamarine;
 }
 
 
-
-
 table#t01, td, th {
-  margin-left: 600px;
-  margin-top:-290px;
-  border: 3px solid black;
-  outline:2px dashed white;
+  margin-left: 540px;
+  margin-top:-210px;
+  border:1px solid black;
   border-collapse: collapse;
-  height: 50px;
-  width: 20%;
   align-content: normal;
 }
 
