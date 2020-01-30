@@ -1,0 +1,172 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding:0px;
+  margin:0px;
+  font-family: 'Raleway', sans-serif;
+}
+
+div#wrapper {
+  background-color: rgb(250,241,234);
+}
+
+header {
+  background-color: rgb(181,230,219);
+  text-align: left;
+  font-size: 18px;
+
+}
+.text1{
+  width: 250px;
+}
+
+#logo {
+  width: unset;
+  height: 150px;
+  background-color: rgb(181,230,219);
+}
+
+img {
+  width: 100%;
+}
+
+/*-- Navigatie --*/
+
+nav{
+  padding:0px;
+  margin: 0px;
+  display: block;
+
+}
+
+nav {
+  background-color: rgb(128,128,128);
+  border-top: 1.5px solid white;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  padding-right: 30px;
+
+}
+@media all and (min-width: 550px) {
+  nav {
+    background-color:rgb(128,128,128) ;
+    border-top: 1px solid white;
+  }
+
+}
+/* -- einde navigatie --*/
+h3 {
+  color: rgb(220,106,94);
+  font-weight: 600;
+  font-size: 30px;
+}
+
+/* -- sections and footers --*/
+
+section , footer {
+  padding: 20px;
+}
+
+@media all and (min-width:550px) {
+  section#nieuws {
+    width: 40%;
+    float: left;
+  }
+  section#instrumenten {
+    width: 60%;
+    float: right;
+  }
+  img#logo {
+    height: 150px;
+  }
+  .text1{
+    width: 220px;
+  }
+  nav{
+    height: 60px;
+  }
+ a{
+    padding-top: 10px;
+   padding-left: 20px;
+  }
+
+}
+
+@media all and (min-width:920px) {
+  section#nieuws {
+    width: 30%;
+    float: left;
+  }
+  section#instrumenten {
+    width: 70%;
+    float: right;
+  }
+  article {
+    display: inline-block;
+    width: 48%;
+    margin-right: 20px;
+  }
+  article:nth-child(even) {
+    margin-right: 0px;
+  }
+  img#logo {
+    height: 150px;
+  }
+
+}
+
+@media all and (min-width:1200px) {
+  div#wrapper {
+    width: 1200px;
+    margin: auto;
+  }
+
+}
+
+footer {
+  background-color: rgb(128,128,128);
+  color: white;
+  clear: both;
+}
+
+footer h3 {
+  color: white;
+}
+@media all and (max-width: 550px){
+  nav a{
+    display: list-item;
+    border-bottom: 1.5px white solid;
+
+  }
+  nav{
+    position: initial;
+  }
+  a{
+    height: 30px;
+    padding-top: 5px;
+    text-align: left;
+    padding-left: 20px;
+  }
+  .text1{
+    width: 300px;
+  }
+  #instrumenten img{
+    height: 300px;
+    width:300px ;
+  }
+
+}
+@media all and (max-width: 320px){
+  .text1{
+    width: 250px;
+  }
+  #instrumenten img{
+    height: 200px;
+    width:200px ;
+  }
+}
