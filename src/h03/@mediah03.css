@@ -30,21 +30,23 @@ div#wrapper {
    border-style: groove;
 
  }
- .table3 td{
-   border: black;
-   border-width: 1.1px;
-   border-style: groove;
-
+ img{
+   background-color: grey;
  }
-.table3{
-  text-align: center;
-  height:200px ;
-  width:800px ;
-  border: 1px black solid;
 
-  border-collapse: inherit;
 
-  border-spacing: 4px;
+.table3 {
+  border: 2px solid;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+
 
 }
-
+.table3 td {
+  border: 1px solid;
+}
+.table3 td h4 {
+  margin-bottom: 0;
+}
+.column {
+  text-align: center;
+}
