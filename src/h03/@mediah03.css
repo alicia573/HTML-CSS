@@ -38,15 +38,11 @@ div#wrapper {
 .table3 {
   border: 2px solid;
   font-family: 'Arial Narrow', Arial, sans-serif;
-
-
 }
 .table3 td {
   border: 1px solid;
 }
-.table3 td h4 {
-  margin-bottom: 0;
-}
+
 .column {
   text-align: center;
 }
